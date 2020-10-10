@@ -1,8 +1,8 @@
 # Project_submission_window
 Feel free to add your projects here
-# hereOutdoorNavChallenge
 
-Project Submission for OutDoor Navigation Challenge starting 16th October.
+
+
 
 ## Submission Procedure
 
